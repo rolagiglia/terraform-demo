@@ -1,6 +1,7 @@
 # Terraform Demo
 
 Este proyecto es un demo de Terraform que provisiona recursos básicos en Google Cloud Platform (GCP). Es ideal para aprender los fundamentos de Infrastructure as Code con Terraform y GCP.
+Terraform es una herramienta de Infrastructure as Code (IaC) que permite definir y crear infraestructura en la nube de forma automática y reproducible mediante archivos de configuración.
 
 ## Descripción
 
